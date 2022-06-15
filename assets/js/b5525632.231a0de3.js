@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklearning_journey=self.webpackChunklearning_journey||[]).push([[4808],{5011:function(n){n.exports=JSON.parse('{"label":"docusaurus","permalink":"/Learning-Journey/blog/tags/docusaurus","allTagsPath":"/Learning-Journey/blog/tags","count":4}')}}]);
