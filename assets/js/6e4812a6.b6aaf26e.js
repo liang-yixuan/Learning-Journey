@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklearning_journey=self.webpackChunklearning_journey||[]).push([[1802],{58:function(e){e.exports=JSON.parse('{"permalink":"/learning-journey/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
